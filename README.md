@@ -2,8 +2,7 @@
 
 This repository contains a simple 360 and VR tour app developed using Unity (version 2019.4.32f1) and integrated with the Google VR SDK (Software Development Kit). The app allows users to switch between a 360-degree view mode and a virtual reality (VR) mode, providing an immersive tour experience.
 
-https://github.com/AhzamRasul/Unity_VR_Tour_App/assets/50517265/3d67d50e-9d66-4b79-974b-bede5f5b89f1
-
+https://github.com/AhzamRasul/Unity_VR_Tour_App/assets/50517265/a44e5580-f2cc-496e-8c58-7fad4ab02b72
 
 
 Youtube Video = https://youtu.be/BFpoEEB_V-0
